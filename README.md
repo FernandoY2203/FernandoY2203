@@ -42,10 +42,3 @@ Eu sou Fernando, moro no Brasil e estou finalizando o curso de Análise e Desenv
 ![CodePen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=codepen&logoColor=%23000000&labelColor=%23ffffff&color=%238000ff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&labelColor=%23ffffff&color=%238000ff)
 
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FernandoY2203&theme=midnight-purple)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoY2203&theme=midnight-purple&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FernandoY2203&layout=compact&bg_color=000&border_color=FFF&title_color=b266ff&text_color=FFF)
